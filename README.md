@@ -89,7 +89,7 @@ cd ..
 
 ---
 
-## ⚡ Running the Application
+##  Running the Application
 
 ### Option A: Run Backend Server
 From the project root:
